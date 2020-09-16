@@ -1,2 +1,3 @@
 # snake
-Змейка (игра) | tkinter and pygame
+
+2 вида змеек: tkinter и pygame
